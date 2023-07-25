@@ -23,6 +23,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 ## JAR Files used
-1. FlatLaf: https://www.formdev.com/flatlaf/ || https://github.com/JFormDesigner/FlatLaf
-2. JCalendar: https://toedter.com/jcalendar/
-3. JFreeChart: https://www.jfree.org/jfreechart/ || https://github.com/jfree/jfreechart/releases/tag/v1.5.2 
+1. [FlatLaf](https://www.formdev.com/flatlaf/)
+2. [JCalendar](https://toedter.com/jcalendar/)
+3. [JFreeChart](https://www.jfree.org/jfreechart/)
