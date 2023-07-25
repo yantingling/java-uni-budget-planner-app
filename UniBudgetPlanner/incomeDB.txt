@@ -1,0 +1,5 @@
+01/05/2023,Scholarship,JPA,1000.00,src/ImageDB/incomeImgDB/receipt11.png
+16/05/2023,Part-time jobs,One day Bartender,80.00,src/ImageDB/incomeImgDB/receipt12.png
+30/05/2023,Part-time jobs,Giving Flyers,140.00,src/ImageDB/incomeImgDB/receipt13.png
+02/06/2023,Loan,Yayasan Srwk,1500.00,src/ImageDB/incomeImgDB/receipt14.png
+12/06/2023,Part-time jobs,waitress,300.00,src/ImageDB/incomeImgDB/receipt15.png

@@ -1,0 +1,10 @@
+05/05/2023,Food,Lunch,35.00,src/ImageDB/expensesImgDB/receipt1.png
+10/05/2023,Rental,Camera,150.00,src/ImageDB/expensesImgDB/receipt2.png
+16/05/2023,Transport,AirAsia,148.00,src/ImageDB/expensesImgDB/receipt3.png
+19/05/2023,Groceries,TopMart,200.00,src/ImageDB/expensesImgDB/receipt4.png
+24/05/2023,Food,Dining out,99.00,src/ImageDB/expensesImgDB/receipt5.png
+31/05/2023,Food,Dinner,34.00,src/ImageDB/expensesImgDB/receipt10.png
+07/06/2023,Fees,Subscription,120.00,src/ImageDB/expensesImgDB/receipt6.png
+12/06/2023,College,Y2S2,800.00,src/ImageDB/expensesImgDB/receipt7.png
+14/06/2023,Healthcare,Prescription,95.00,src/ImageDB/expensesImgDB/receipt8.png
+20/06/2023,Groceries,Everwin,188.00,src/ImageDB/expensesImgDB/receipt9.png
