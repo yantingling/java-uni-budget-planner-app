@@ -1,3 +1,10 @@
+/*
+TMF2954 Java Programming (Project - UNI Budget Planner)
+Lecturer: Dr Tan Ping Ping
+Due Date: 26 June 2023
+Created by Ling Yan Ting
+*/
+
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
