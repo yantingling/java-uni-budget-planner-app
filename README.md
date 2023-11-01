@@ -1,6 +1,13 @@
 # java-uni-budget-planner-app
 TMF2954 Java Programming (Project)
 
+## Demo Run of the App
+
+
+https://github.com/yantingling/java-uni-budget-planner-app/assets/104501044/d412f450-84af-4cae-ae34-3d17b66a72d3
+
+
+
 ## Project Completion Timeline
 Fully developed by myself from 1 June 2023 to 25 June 2023 (Year 2 Semester 2)
 
