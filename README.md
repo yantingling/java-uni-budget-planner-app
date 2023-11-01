@@ -1,8 +1,8 @@
 # java-uni-budget-planner-app
-TMF 2954 Java Programming (Project)
+TMF2954 Java Programming (Project)
 
 ## Project Completion Timeline
-1 June 2023 - 25 June 2023 (Year 2 Semester 2)
+Fully developed by myself from 1 June 2023 to 25 June 2023 (Year 2 Semester 2)
 
 ## Project Description
 Develop a UNI Budget Planner app (with Graphical User Interface using Java) that allows university students to track their income (i.e. scholarship, loan, part time jobs) and expenses. For each entry, the users can perform the CRUD operations (create (add), read (view), update (edit) and delete. Besides that, the app must also have two more advanced functionalities that are summary of expenses based on type of expenses (for example and  a graph visualisation that display the users’ daily or monthly expenses. Txt file is allowed to be used for data management in this project as it will not be assessed. There is NO NEED for user login and password.
